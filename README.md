@@ -1,5 +1,5 @@
 # Sound Card Oscilloscope
-For more details and my actual build and how to use this, check out the blog post (coming soon).
+For more details of my actual build and how to use this, check out [the blog post](https://nick.blog/2017/08/22/sound-card-oscilloscope/).
 
 ## Wiring
 Grab the [Fritzing file](./sound-card-oscilloscope.fzz) or reference the screenshot below.
